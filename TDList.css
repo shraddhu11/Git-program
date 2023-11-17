@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    padding: 30px;
+}
+.content{
+    color: black;
+    font-size: 2rem;
+}
+.colum{
+    color: black;
+    padding: 5%;
+    margin-left: 10%;
+}
+.form-control{
+    background-color:#f8f9fa;
+}
+.btn{
+    font-size: 1rem;
+    font:bold;
+}
+.btn-dark:hover{
+    color: rgb(7, 7, 7);
+    background-color:aqua;
+}
